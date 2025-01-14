@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\bin\Debug\net8.0\Shefali_CsharpAssignment.exe
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\bin\Debug\net8.0\Shefali_CsharpAssignment.deps.json
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\bin\Debug\net8.0\Shefali_CsharpAssignment.runtimeconfig.json
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\bin\Debug\net8.0\Shefali_CsharpAssignment.dll
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\bin\Debug\net8.0\Shefali_CsharpAssignment.pdb
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.dll
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\refint\Shefali_CsharpAssignment.dll
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.pdb
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.genruntimeconfig.cache
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\ref\Shefali_CsharpAssignment.dll
+C:\Users\keyur\source\repos\Shefali_CsharpAssignment\Shefali_CsharpAssignment\obj\Debug\net8.0\Shefali_CsharpAssignment.sourcelink.json
